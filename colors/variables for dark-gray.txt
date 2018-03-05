@@ -11,7 +11,7 @@ $accent-color: #06A763;
 
 
 $primary-color-light: lighten($primary-color, 7%);
-$primary-color-dark: darken($primary-color, 12%);
+$primary-color-dark: darken($primary-color, 3%);
 
 $accent-color-light: lighten($accent-color, 7%);
 $accent-color-dark: darken($accent-color, 12%);
@@ -64,3 +64,11 @@ $port_h2: rgba(72, 76, 97, 0.22);
 $menu-bg : $primary-color;
 $port-p : $white;
 $box-inner : $body-color;
+
+
+///*=======================================*/
+///*                OTHERS                 */
+///*=======================================*/
+$rootPath : "..";
+$indicator-color: $accent-color;
+$blockquote: $accent-color;
