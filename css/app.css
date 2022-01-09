@@ -1,8 +1,15 @@
-img {
+.img-other {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 80%;
+    width: 70%;
+  }
+
+  .img-back {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
   }
 
   .animationText {
@@ -22,9 +29,12 @@ img {
   }
 
 .headerStyle {
-    text-shadow: 2px 2px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Times New Roman", Times, serif;
+    color: #00004d;
 }
 .bodyBackground{
-    background-color: #e6ffe6;
+    background-color: #f2f2f2;
+}
+.imageDiv{
+  background-color: #ffe6e6;
 }
